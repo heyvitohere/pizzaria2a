@@ -4,7 +4,7 @@ import Home from './Home'
 import Inicio from './Inicio'
 
 const App = () => {
-const [ color ] = useState ("#eb8d04")
+const [ color ] = useState ("#c0c0c0")
 document.body.style.backgroundColor = color
   return (
     <Routes>
